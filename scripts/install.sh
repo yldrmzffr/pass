@@ -17,7 +17,7 @@ else
 fi
 
 # Define the URL where the pre-compiled binary will be hosted
-BINARY_URL=""
+BINARY_URL="https://github.com/yldrmzffr/pass/raw/main/bin/pass_$OS"
 
 # Create a directory for the pass
 mkdir -p ~/pass
